@@ -13,7 +13,7 @@ I am a passionate B.Tech CS student at Mandsaur University, driven by a curiosit
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
