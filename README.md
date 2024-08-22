@@ -7,7 +7,7 @@ I am a passionate B.Tech CS student at Mandsaur University, driven by a curiosit
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at IIT Mandsaur University.
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Mandsaur University.
 
 
 
